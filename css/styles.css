@@ -7,7 +7,6 @@
     width: 100%;
     margin: 0 auto;
     background-color: #90caf9;
-    border-radius: 20px;
 }
 
 @media screen and (max-width:768px) {
@@ -59,7 +58,7 @@
 
 .nav a{
     text-decoration: none;
-    padding-inline-start: 40px;
+    padding-inline-start: 38px;
     height: 20px;
     color:white;
     cursor:grab;
